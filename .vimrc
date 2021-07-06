@@ -20,3 +20,6 @@ set paste
 
 " Other settings
 set ruler
+
+" Set the color scheme
+colorscheme slate
