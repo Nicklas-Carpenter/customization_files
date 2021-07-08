@@ -22,4 +22,4 @@ set paste
 set ruler
 
 " Set the color scheme
-colorscheme slate
+colorscheme desert 
